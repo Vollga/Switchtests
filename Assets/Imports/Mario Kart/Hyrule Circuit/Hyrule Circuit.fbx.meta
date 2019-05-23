@@ -1,0 +1,1085 @@
+fileFormatVersion: 2
+guid: 12482ffebe940fa4ab22cb2620b0f02d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: di_Grass_B
+    100002: ef_glideboard
+    100004: ef_gravityboard
+    100006: ef_sea
+    100008: ForestEnkei
+    100010: hy_blackiron
+    100012: hy_block0
+    100014: hy_block0_Area2
+    100016: hy_block1
+    100018: hy_Block_Moss
+    100020: hy_Cannon
+    100022: hy_carpet
+    100024: hy_carpet_Area1
+    100026: hy_carpet_Area1_2
+    100028: hy_CasIn_Wall0
+    100030: hy_CasIn_Wall1
+    100032: hy_CasIn_Wall1_Ceiling
+    100034: hy_CasIn_Wall2
+    100036: hy_CasIn_Wall3
+    100038: hy_CasIn_Window
+    100040: hy_CasIn_Window_CM
+    100042: hy_CasInside_0
+    100044: hy_CasInside_0_Area0
+    100046: hy_CasInside_Emi_0
+    100048: hy_CasInside_Emi_CM
+    100050: hy_CasOut_deco2
+    100052: hy_CasOut_deco2_2
+    100054: hy_CasOut_deco2_Area2
+    100056: hy_CasOut_Fence
+    100058: hy_CasOut_roof
+    100060: hy_CasOut_roof2
+    100062: hy_CasOut_RoyalMark
+    100064: hy_CasOut_wall0
+    100066: hy_CasOut_wall1
+    100068: hy_CasOut_wall1_2
+    100070: hy_CasOut_wall3
+    100072: hy_CasOut_wall3_2
+    100074: hy_CasOut_Window
+    100076: hy_caveA01
+    100078: hy_cliffB01
+    100080: hy_cliffB01_Edge
+    100082: hy_cmn_wood
+    100084: hy_cmn_wood2
+    100086: hy_cmn_wood2_2
+    100088: hy_cmn_wood3
+    100090: hy_DepthShadow
+    100092: hy_DepthShadow_TrA_Leaf
+    100094: hy_DethMountain
+    100096: hy_DushJump
+    100098: hy_FakeLeaf
+    100100: hy_FakeLeaf1
+    100102: hy_FlagRope
+    100104: hy_Flowers
+    100106: hy_grass_nuki
+    100108: hy_grass_OutSide
+    100110: hy_house
+    100112: hy_house_Wall
+    100114: hy_houseroof
+    100116: hy_houseroof2
+    100118: hy_hwood03
+    100120: hy_Iron
+    100122: hy_IronObj
+    100124: hy_IronObj_Area2
+    100126: hy_JumpPanel_Iron
+    100128: hy_JumpPanel_Wood
+    100130: hy_Kaidan
+    100132: hy_kusa01
+    100134: hy_kusa02
+    100136: hy_pole
+    100138: hy_road
+    100140: hy_road2
+    100142: hy_road3
+    100144: hy_road4
+    100146: hy_road4_Area2off
+    100148: hy_road4_InCastle
+    100150: hy_road4_InCastle_CM
+    100152: hy_roadC
+    100154: hy_StartGate
+    100156: hy_Startline
+    100158: hy_StartObj
+    100160: hy_straw
+    100162: hy_Torch
+    100164: hy_Torch_Area2
+    100166: hy_TownObj
+    100168: hy_TreeA_Leaf
+    100170: hy_TreeB_Base
+    100172: hy_tuta01
+    100174: //RootNode
+    100176: mm_moutain01
+    100178: PanelFlame
+    100180: Torch_CM
+    400000: di_Grass_B
+    400002: ef_glideboard
+    400004: ef_gravityboard
+    400006: ef_sea
+    400008: ForestEnkei
+    400010: hy_blackiron
+    400012: hy_block0
+    400014: hy_block0_Area2
+    400016: hy_block1
+    400018: hy_Block_Moss
+    400020: hy_Cannon
+    400022: hy_carpet
+    400024: hy_carpet_Area1
+    400026: hy_carpet_Area1_2
+    400028: hy_CasIn_Wall0
+    400030: hy_CasIn_Wall1
+    400032: hy_CasIn_Wall1_Ceiling
+    400034: hy_CasIn_Wall2
+    400036: hy_CasIn_Wall3
+    400038: hy_CasIn_Window
+    400040: hy_CasIn_Window_CM
+    400042: hy_CasInside_0
+    400044: hy_CasInside_0_Area0
+    400046: hy_CasInside_Emi_0
+    400048: hy_CasInside_Emi_CM
+    400050: hy_CasOut_deco2
+    400052: hy_CasOut_deco2_2
+    400054: hy_CasOut_deco2_Area2
+    400056: hy_CasOut_Fence
+    400058: hy_CasOut_roof
+    400060: hy_CasOut_roof2
+    400062: hy_CasOut_RoyalMark
+    400064: hy_CasOut_wall0
+    400066: hy_CasOut_wall1
+    400068: hy_CasOut_wall1_2
+    400070: hy_CasOut_wall3
+    400072: hy_CasOut_wall3_2
+    400074: hy_CasOut_Window
+    400076: hy_caveA01
+    400078: hy_cliffB01
+    400080: hy_cliffB01_Edge
+    400082: hy_cmn_wood
+    400084: hy_cmn_wood2
+    400086: hy_cmn_wood2_2
+    400088: hy_cmn_wood3
+    400090: hy_DepthShadow
+    400092: hy_DepthShadow_TrA_Leaf
+    400094: hy_DethMountain
+    400096: hy_DushJump
+    400098: hy_FakeLeaf
+    400100: hy_FakeLeaf1
+    400102: hy_FlagRope
+    400104: hy_Flowers
+    400106: hy_grass_nuki
+    400108: hy_grass_OutSide
+    400110: hy_house
+    400112: hy_house_Wall
+    400114: hy_houseroof
+    400116: hy_houseroof2
+    400118: hy_hwood03
+    400120: hy_Iron
+    400122: hy_IronObj
+    400124: hy_IronObj_Area2
+    400126: hy_JumpPanel_Iron
+    400128: hy_JumpPanel_Wood
+    400130: hy_Kaidan
+    400132: hy_kusa01
+    400134: hy_kusa02
+    400136: hy_pole
+    400138: hy_road
+    400140: hy_road2
+    400142: hy_road3
+    400144: hy_road4
+    400146: hy_road4_Area2off
+    400148: hy_road4_InCastle
+    400150: hy_road4_InCastle_CM
+    400152: hy_roadC
+    400154: hy_StartGate
+    400156: hy_Startline
+    400158: hy_StartObj
+    400160: hy_straw
+    400162: hy_Torch
+    400164: hy_Torch_Area2
+    400166: hy_TownObj
+    400168: hy_TreeA_Leaf
+    400170: hy_TreeB_Base
+    400172: hy_tuta01
+    400174: //RootNode
+    400176: mm_moutain01
+    400178: PanelFlame
+    400180: Torch_CM
+    2100000: hy_CasOut_roof2
+    2100002: hy_houseroof2
+    2100004: hy_grass_nuki
+    2100006: hy_CasOut_deco2_2
+    2100008: hy_carpet_Area1
+    2100010: hy_carpet_Area1_2
+    2100012: hy_CasOut_RoyalMark
+    2100014: hy_CasInside_Emi_CM
+    2100016: hy_straw
+    2100018: hy_cliffB01_Edge
+    2100020: hy_cmn_wood3
+    2100022: hy_CasIn_Wall1_Ceiling
+    2100024: hy_road4_InCastle_CM
+    2100026: hy_CasOut_wall0
+    2100028: hy_carpet
+    2100030: hy_block0_Area2
+    2100032: hy_Cannon
+    2100034: hy_CasOut_deco2_Area2
+    2100036: hy_road4_Area2off
+    2100038: hy_CasInside_0
+    2100040: hy_CasOut_deco2
+    2100042: PanelFlame
+    2100044: hy_caveA01
+    2100046: hy_JumpPanel_Wood
+    2100048: hy_tuta01
+    2100050: hy_houseroof
+    2100052: hy_cmn_wood2_2
+    2100054: hy_DepthShadow
+    2100056: hy_CasIn_Window_CM
+    2100058: hy_CasOut_Window
+    2100060: hy_CasIn_Window
+    2100062: hy_road4_InCastle
+    2100064: hy_CasInside_Emi_0
+    2100066: hy_CasOut_wall3_2
+    2100068: hy_CasOut_wall1_2
+    2100070: hy_road4
+    2100072: hy_road2
+    2100074: Torch_CM
+    2100076: hy_CasIn_Wall3
+    2100078: hy_CasIn_Wall2
+    2100080: hy_JumpPanel_Iron
+    2100082: hy_CasOut_roof
+    2100084: hy_block1
+    2100086: hy_house_Wall
+    2100088: hy_Kaidan
+    2100090: hy_block0
+    2100092: hy_road3
+    2100094: hy_house
+    2100096: hy_cmn_wood
+    2100098: ef_gravityboard
+    2100100: ef_glideboard
+    2100102: ForestEnkei
+    2100104: hy_Flowers
+    2100106: hy_TownObj
+    2100108: hy_Iron
+    2100110: hy_CasIn_Wall0
+    2100112: hy_DethMountain
+    2100114: hy_TreeB_Base
+    2100116: hy_TreeA_Leaf
+    2100118: hy_FakeLeaf
+    2100120: hy_hwood03
+    2100122: hy_IronObj_Area2
+    2100124: hy_Torch
+    2100126: hy_Torch_Area2
+    2100128: hy_Startline
+    2100130: hy_road
+    2100132: mm_moutain01
+    2100134: hy_CasOut_wall3
+    2100136: ef_sea
+    2100138: hy_CasInside_0_Area0
+    2100140: hy_StartGate
+    2100142: hy_CasOut_wall1
+    2100144: hy_kusa02
+    2100146: hy_kusa01
+    2100148: hy_roadC
+    2100150: hy_Block_Moss
+    2100152: hy_pole
+    2100154: hy_CasIn_Wall1
+    2100156: hy_grass_OutSide
+    2100158: hy_cliffB01
+    2100160: di_Grass_B
+    2100162: hy_FlagRope
+    2100164: hy_CasOut_Fence
+    2100166: hy_FakeLeaf1
+    2100168: hy_blackiron
+    2100170: hy_IronObj
+    2100172: hy_DepthShadow_TrA_Leaf
+    2100174: hy_DushJump
+    2100176: hy_cmn_wood2
+    2100178: hy_StartObj
+    2300000: di_Grass_B
+    2300002: ef_glideboard
+    2300004: ef_gravityboard
+    2300006: ef_sea
+    2300008: ForestEnkei
+    2300010: hy_blackiron
+    2300012: hy_block0
+    2300014: hy_block0_Area2
+    2300016: hy_block1
+    2300018: hy_Block_Moss
+    2300020: hy_Cannon
+    2300022: hy_carpet
+    2300024: hy_carpet_Area1
+    2300026: hy_carpet_Area1_2
+    2300028: hy_CasIn_Wall0
+    2300030: hy_CasIn_Wall1
+    2300032: hy_CasIn_Wall1_Ceiling
+    2300034: hy_CasIn_Wall2
+    2300036: hy_CasIn_Wall3
+    2300038: hy_CasIn_Window
+    2300040: hy_CasIn_Window_CM
+    2300042: hy_CasInside_0
+    2300044: hy_CasInside_0_Area0
+    2300046: hy_CasInside_Emi_0
+    2300048: hy_CasInside_Emi_CM
+    2300050: hy_CasOut_deco2
+    2300052: hy_CasOut_deco2_2
+    2300054: hy_CasOut_deco2_Area2
+    2300056: hy_CasOut_Fence
+    2300058: hy_CasOut_roof
+    2300060: hy_CasOut_roof2
+    2300062: hy_CasOut_RoyalMark
+    2300064: hy_CasOut_wall0
+    2300066: hy_CasOut_wall1
+    2300068: hy_CasOut_wall1_2
+    2300070: hy_CasOut_wall3
+    2300072: hy_CasOut_wall3_2
+    2300074: hy_CasOut_Window
+    2300076: hy_caveA01
+    2300078: hy_cliffB01
+    2300080: hy_cliffB01_Edge
+    2300082: hy_cmn_wood
+    2300084: hy_cmn_wood2
+    2300086: hy_cmn_wood2_2
+    2300088: hy_cmn_wood3
+    2300090: hy_DepthShadow
+    2300092: hy_DepthShadow_TrA_Leaf
+    2300094: hy_DethMountain
+    2300096: hy_DushJump
+    2300098: hy_FakeLeaf
+    2300100: hy_FakeLeaf1
+    2300102: hy_FlagRope
+    2300104: hy_Flowers
+    2300106: hy_grass_nuki
+    2300108: hy_grass_OutSide
+    2300110: hy_house
+    2300112: hy_house_Wall
+    2300114: hy_houseroof
+    2300116: hy_houseroof2
+    2300118: hy_hwood03
+    2300120: hy_Iron
+    2300122: hy_IronObj
+    2300124: hy_IronObj_Area2
+    2300126: hy_JumpPanel_Iron
+    2300128: hy_JumpPanel_Wood
+    2300130: hy_Kaidan
+    2300132: hy_kusa01
+    2300134: hy_kusa02
+    2300136: hy_pole
+    2300138: hy_road
+    2300140: hy_road2
+    2300142: hy_road3
+    2300144: hy_road4
+    2300146: hy_road4_Area2off
+    2300148: hy_road4_InCastle
+    2300150: hy_road4_InCastle_CM
+    2300152: hy_roadC
+    2300154: hy_StartGate
+    2300156: hy_Startline
+    2300158: hy_StartObj
+    2300160: hy_straw
+    2300162: hy_Torch
+    2300164: hy_Torch_Area2
+    2300166: hy_TownObj
+    2300168: hy_TreeA_Leaf
+    2300170: hy_TreeB_Base
+    2300172: hy_tuta01
+    2300174: mm_moutain01
+    2300176: PanelFlame
+    2300178: Torch_CM
+    2300180: //RootNode
+    3300000: di_Grass_B
+    3300002: ef_glideboard
+    3300004: ef_gravityboard
+    3300006: ef_sea
+    3300008: ForestEnkei
+    3300010: hy_blackiron
+    3300012: hy_block0
+    3300014: hy_block0_Area2
+    3300016: hy_block1
+    3300018: hy_Block_Moss
+    3300020: hy_Cannon
+    3300022: hy_carpet
+    3300024: hy_carpet_Area1
+    3300026: hy_carpet_Area1_2
+    3300028: hy_CasIn_Wall0
+    3300030: hy_CasIn_Wall1
+    3300032: hy_CasIn_Wall1_Ceiling
+    3300034: hy_CasIn_Wall2
+    3300036: hy_CasIn_Wall3
+    3300038: hy_CasIn_Window
+    3300040: hy_CasIn_Window_CM
+    3300042: hy_CasInside_0
+    3300044: hy_CasInside_0_Area0
+    3300046: hy_CasInside_Emi_0
+    3300048: hy_CasInside_Emi_CM
+    3300050: hy_CasOut_deco2
+    3300052: hy_CasOut_deco2_2
+    3300054: hy_CasOut_deco2_Area2
+    3300056: hy_CasOut_Fence
+    3300058: hy_CasOut_roof
+    3300060: hy_CasOut_roof2
+    3300062: hy_CasOut_RoyalMark
+    3300064: hy_CasOut_wall0
+    3300066: hy_CasOut_wall1
+    3300068: hy_CasOut_wall1_2
+    3300070: hy_CasOut_wall3
+    3300072: hy_CasOut_wall3_2
+    3300074: hy_CasOut_Window
+    3300076: hy_caveA01
+    3300078: hy_cliffB01
+    3300080: hy_cliffB01_Edge
+    3300082: hy_cmn_wood
+    3300084: hy_cmn_wood2
+    3300086: hy_cmn_wood2_2
+    3300088: hy_cmn_wood3
+    3300090: hy_DepthShadow
+    3300092: hy_DepthShadow_TrA_Leaf
+    3300094: hy_DethMountain
+    3300096: hy_DushJump
+    3300098: hy_FakeLeaf
+    3300100: hy_FakeLeaf1
+    3300102: hy_FlagRope
+    3300104: hy_Flowers
+    3300106: hy_grass_nuki
+    3300108: hy_grass_OutSide
+    3300110: hy_house
+    3300112: hy_house_Wall
+    3300114: hy_houseroof
+    3300116: hy_houseroof2
+    3300118: hy_hwood03
+    3300120: hy_Iron
+    3300122: hy_IronObj
+    3300124: hy_IronObj_Area2
+    3300126: hy_JumpPanel_Iron
+    3300128: hy_JumpPanel_Wood
+    3300130: hy_Kaidan
+    3300132: hy_kusa01
+    3300134: hy_kusa02
+    3300136: hy_pole
+    3300138: hy_road
+    3300140: hy_road2
+    3300142: hy_road3
+    3300144: hy_road4
+    3300146: hy_road4_Area2off
+    3300148: hy_road4_InCastle
+    3300150: hy_road4_InCastle_CM
+    3300152: hy_roadC
+    3300154: hy_StartGate
+    3300156: hy_Startline
+    3300158: hy_StartObj
+    3300160: hy_straw
+    3300162: hy_Torch
+    3300164: hy_Torch_Area2
+    3300166: hy_TownObj
+    3300168: hy_TreeA_Leaf
+    3300170: hy_TreeB_Base
+    3300172: hy_tuta01
+    3300174: mm_moutain01
+    3300176: PanelFlame
+    3300178: Torch_CM
+    3300180: //RootNode
+    4300000: hy_CasOut_roof2
+    4300002: hy_houseroof2
+    4300004: hy_grass_nuki
+    4300006: hy_CasOut_deco2_2
+    4300008: hy_carpet_Area1
+    4300010: hy_carpet_Area1_2
+    4300012: hy_CasOut_RoyalMark
+    4300014: hy_CasInside_Emi_CM
+    4300016: hy_straw
+    4300018: hy_cliffB01_Edge
+    4300020: hy_cmn_wood3
+    4300022: hy_CasIn_Wall1_Ceiling
+    4300024: hy_road4_InCastle_CM
+    4300026: hy_CasOut_wall0
+    4300028: hy_carpet
+    4300030: hy_block0_Area2
+    4300032: hy_Cannon
+    4300034: hy_CasOut_deco2_Area2
+    4300036: hy_road4_Area2off
+    4300038: hy_CasInside_0
+    4300040: hy_CasOut_deco2
+    4300042: PanelFlame
+    4300044: hy_caveA01
+    4300046: hy_JumpPanel_Wood
+    4300048: hy_tuta01
+    4300050: hy_houseroof
+    4300052: hy_cmn_wood2_2
+    4300054: hy_DepthShadow
+    4300056: hy_CasIn_Window_CM
+    4300058: hy_CasOut_Window
+    4300060: hy_CasIn_Window
+    4300062: hy_road4_InCastle
+    4300064: hy_CasInside_Emi_0
+    4300066: hy_CasOut_wall3_2
+    4300068: hy_CasOut_wall1_2
+    4300070: hy_road4
+    4300072: hy_road2
+    4300074: Torch_CM
+    4300076: hy_CasIn_Wall3
+    4300078: hy_CasIn_Wall2
+    4300080: hy_JumpPanel_Iron
+    4300082: hy_CasOut_roof
+    4300084: hy_block1
+    4300086: hy_house_Wall
+    4300088: hy_Kaidan
+    4300090: hy_block0
+    4300092: hy_road3
+    4300094: hy_house
+    4300096: hy_cmn_wood
+    4300098: ef_gravityboard
+    4300100: ef_glideboard
+    4300102: ForestEnkei
+    4300104: hy_Flowers
+    4300106: hy_TownObj
+    4300108: hy_Iron
+    4300110: hy_CasIn_Wall0
+    4300112: hy_DethMountain
+    4300114: hy_TreeB_Base
+    4300116: hy_TreeA_Leaf
+    4300118: hy_FakeLeaf
+    4300120: hy_hwood03
+    4300122: hy_IronObj_Area2
+    4300124: hy_Torch
+    4300126: hy_Torch_Area2
+    4300128: hy_Startline
+    4300130: hy_road
+    4300132: mm_moutain01
+    4300134: hy_CasOut_wall3
+    4300136: ef_sea
+    4300138: hy_CasInside_0_Area0
+    4300140: hy_StartGate
+    4300142: hy_CasOut_wall1
+    4300144: hy_kusa02
+    4300146: hy_kusa01
+    4300148: hy_roadC
+    4300150: hy_Block_Moss
+    4300152: hy_pole
+    4300154: hy_CasIn_Wall1
+    4300156: hy_grass_OutSide
+    4300158: hy_cliffB01
+    4300160: di_Grass_B
+    4300162: hy_FlagRope
+    4300164: hy_CasOut_Fence
+    4300166: hy_FakeLeaf1
+    4300168: hy_blackiron
+    4300170: hy_IronObj
+    4300172: hy_DepthShadow_TrA_Leaf
+    4300174: hy_DushJump
+    4300176: hy_cmn_wood2
+    4300178: hy_StartObj
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ForestEnkei
+    second: {fileID: 2100000, guid: 75e372bc2e9b5c140a805a9ab86a25c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PanelFlame
+    second: {fileID: 2100000, guid: a0cbb4b48ccf27642b06a409835f9434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torch_CM
+    second: {fileID: 2100000, guid: d722ca383ed39b044ad74973795a669f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: di_Grass_B
+    second: {fileID: 2100000, guid: 6553e001ce335044ca5c38c09854035b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ef_glideboard
+    second: {fileID: 2100000, guid: 2cd14a8e0f075fd4486c1a8ef1aa8e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ef_gravityboard
+    second: {fileID: 2100000, guid: b5275d00428020744892a795fc8b2ad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ef_sea
+    second: {fileID: 2100000, guid: 4f048a3df4c979346b089de9be82c01e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_Block_Moss
+    second: {fileID: 2100000, guid: e986f3ea5b70e604a84285cc27683045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_Cannon
+    second: {fileID: 2100000, guid: 62e54b2e7d85a034c93a2329f22a4a24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasIn_Wall0
+    second: {fileID: 2100000, guid: 0a9487eeff52d064d87e8cb7da0bc3e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasIn_Wall1
+    second: {fileID: 2100000, guid: 68064a1b2395f154b960c2506c1e3b59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasIn_Wall1_Ceiling
+    second: {fileID: 2100000, guid: 68064a1b2395f154b960c2506c1e3b59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasIn_Wall2
+    second: {fileID: 2100000, guid: f8c254e3204c2c04bbb965a377594d60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasIn_Wall3
+    second: {fileID: 2100000, guid: 4eac01a3cac3e774ba03f496e6ed03a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasIn_Window
+    second: {fileID: 2100000, guid: e008438701fc7cd48abbcd1999447ad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasIn_Window_CM
+    second: {fileID: 2100000, guid: b4eeeb86340319d47942c75014376958, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasInside_0
+    second: {fileID: 2100000, guid: 6ea0e775abaa6a648ab3fe8e7475b6a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasInside_0_Area0
+    second: {fileID: 2100000, guid: 6ea0e775abaa6a648ab3fe8e7475b6a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasInside_Emi_0
+    second: {fileID: 2100000, guid: 6ea0e775abaa6a648ab3fe8e7475b6a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasInside_Emi_CM
+    second: {fileID: 2100000, guid: 6ea0e775abaa6a648ab3fe8e7475b6a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_Fence
+    second: {fileID: 2100000, guid: 246180f5249ad7a46a9677c6add6f673, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_RoyalMark
+    second: {fileID: 2100000, guid: c24b249c2a4f8df408858e1d821359c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_Window
+    second: {fileID: 2100000, guid: b4eeeb86340319d47942c75014376958, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_deco2
+    second: {fileID: 2100000, guid: f8499c82e1f06464aa5fb69eeb140a83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_deco2_2
+    second: {fileID: 2100000, guid: 1b04d97f582843242bdafd8595222972, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_deco2_Area2
+    second: {fileID: 2100000, guid: f8499c82e1f06464aa5fb69eeb140a83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_roof
+    second: {fileID: 2100000, guid: 80d26b8c427e6f04c93015e377bdb36d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_roof2
+    second: {fileID: 2100000, guid: b961e75dfc3f5b9418982024d5b016c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_wall0
+    second: {fileID: 2100000, guid: 0a9487eeff52d064d87e8cb7da0bc3e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_wall1
+    second: {fileID: 2100000, guid: 3a8a0caa6f3b64a45a28eb6011bc77a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_wall1_2
+    second: {fileID: 2100000, guid: de1b28e7c09c4da49b96c8c82d834f14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_wall3
+    second: {fileID: 2100000, guid: 4009ccf412236e942b1d123ceda1ac5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_CasOut_wall3_2
+    second: {fileID: 2100000, guid: d1eadd0fbb41b554dbfa2d21f170db9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_DepthShadow
+    second: {fileID: 2100000, guid: c532e41ae726de0418d8ffc73c514da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_DepthShadow_TrA_Leaf
+    second: {fileID: 2100000, guid: b3994d6b53adb734a9d6348557265fd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_DethMountain
+    second: {fileID: 2100000, guid: 3a68ab251f1908e4fbfac8ae2b64261a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_DushJump
+    second: {fileID: 2100000, guid: b4a87b0e3540174429308865d178e744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_FakeLeaf
+    second: {fileID: 2100000, guid: e32451e86410fb043bbde9b5bc015171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_FakeLeaf1
+    second: {fileID: 2100000, guid: d0f7a59f56f1f5d4183219770d1af5d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_FlagRope
+    second: {fileID: 2100000, guid: 08b669d4825ce994282b60d53541f7af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_Flowers
+    second: {fileID: 2100000, guid: 96306dfe937b1eb4f8f0ea7a31fc557b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_Iron
+    second: {fileID: 2100000, guid: 7cb6511ee540cdd468138e3bc2f1856d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_IronObj
+    second: {fileID: 2100000, guid: a0d64a9780c26f34c92673956545934f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_IronObj_Area2
+    second: {fileID: 2100000, guid: a0d64a9780c26f34c92673956545934f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_JumpPanel_Iron
+    second: {fileID: 2100000, guid: 8d8dc1beba8d62748beb7691a17cf1f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_JumpPanel_Wood
+    second: {fileID: 2100000, guid: c384830ffef3e4246906f11b53d1a7d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_Kaidan
+    second: {fileID: 2100000, guid: 2b2291462ee7b41438ff93a37e9d4ff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_StartGate
+    second: {fileID: 2100000, guid: c532e41ae726de0418d8ffc73c514da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_StartObj
+    second: {fileID: 2100000, guid: fd9d2d276e96db0438de043be13e2824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_Startline
+    second: {fileID: 2100000, guid: 15463c4c7e6d94547877b0656f7ad5d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_Torch
+    second: {fileID: 2100000, guid: b73a5a9755273a948b38373780c67acd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_Torch_Area2
+    second: {fileID: 2100000, guid: b73a5a9755273a948b38373780c67acd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_TownObj
+    second: {fileID: 2100000, guid: a846b65c8c9934840a68489dd4836630, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_TreeA_Leaf
+    second: {fileID: 2100000, guid: b3994d6b53adb734a9d6348557265fd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_TreeB_Base
+    second: {fileID: 2100000, guid: b1c2f0a7b444dfe47b846d1989cc2bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_blackiron
+    second: {fileID: 2100000, guid: 5e058886bbe1f794fb47e768de00567e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_block0
+    second: {fileID: 2100000, guid: ee2643825a87a87428e785cbcd7bb227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_block0_Area2
+    second: {fileID: 2100000, guid: ee2643825a87a87428e785cbcd7bb227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_block1
+    second: {fileID: 2100000, guid: b29b78c30f6e6ce40aafdb1c5593a02c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_carpet
+    second: {fileID: 2100000, guid: c9c12a1849fd4cd48869b34bef34e9ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_carpet_Area1
+    second: {fileID: 2100000, guid: c9c12a1849fd4cd48869b34bef34e9ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_carpet_Area1_2
+    second: {fileID: 2100000, guid: c9c12a1849fd4cd48869b34bef34e9ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_caveA01
+    second: {fileID: 2100000, guid: 23ec4d7d0dacd94459e2ee544b415684, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_cliffB01
+    second: {fileID: 2100000, guid: 14d5fe090f02b9b429349d05243e5ea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_cliffB01_Edge
+    second: {fileID: 2100000, guid: 14d5fe090f02b9b429349d05243e5ea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_cmn_wood
+    second: {fileID: 2100000, guid: dc6e443f9b7c2f9439d9ae62a7d1c933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_cmn_wood2
+    second: {fileID: 2100000, guid: c384830ffef3e4246906f11b53d1a7d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_cmn_wood2_2
+    second: {fileID: 2100000, guid: c384830ffef3e4246906f11b53d1a7d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_cmn_wood3
+    second: {fileID: 2100000, guid: 44859e4549b9eb043a525f415c61b85e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_grass_OutSide
+    second: {fileID: 2100000, guid: d06cfba38af21bf4cb36b671b77244a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_grass_nuki
+    second: {fileID: 2100000, guid: d06cfba38af21bf4cb36b671b77244a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_house
+    second: {fileID: 2100000, guid: e0424d64db5315f4185a3b5ba2d7b1cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_house_Wall
+    second: {fileID: 2100000, guid: e0424d64db5315f4185a3b5ba2d7b1cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_houseroof
+    second: {fileID: 2100000, guid: 723cd5a79b6c53c4f97f5718f82b7824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_houseroof2
+    second: {fileID: 2100000, guid: 1f336ed091ae46c45a6f24d3d75b3386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_hwood03
+    second: {fileID: 2100000, guid: 1db30a57e1b80ce478c3d453cdb07ad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_kusa01
+    second: {fileID: 2100000, guid: 684bc6d401f230c41bd04e4b7232b6ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_kusa02
+    second: {fileID: 2100000, guid: dbb4d9162979e24439c88a18613fa1f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_pole
+    second: {fileID: 2100000, guid: e986f3ea5b70e604a84285cc27683045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_road
+    second: {fileID: 2100000, guid: 3e810a93f6b02d045b362e59616a7f5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_road2
+    second: {fileID: 2100000, guid: dceaa90960820924c991f1f8d526b5dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_road3
+    second: {fileID: 2100000, guid: bb18672305e634c48ae6e2c2ad677913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_road4
+    second: {fileID: 2100000, guid: 590f343b88e2bb14999b9bb550a73354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_road4_Area2off
+    second: {fileID: 2100000, guid: 590f343b88e2bb14999b9bb550a73354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_road4_InCastle
+    second: {fileID: 2100000, guid: 590f343b88e2bb14999b9bb550a73354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_road4_InCastle_CM
+    second: {fileID: 2100000, guid: 590f343b88e2bb14999b9bb550a73354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_roadC
+    second: {fileID: 2100000, guid: 3382389a3f005ee478eccc0cb8c555fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_straw
+    second: {fileID: 2100000, guid: 9ceb56459fc390a439d82914b10229ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hy_tuta01
+    second: {fileID: 2100000, guid: 8a40d3103995c0c44b19cb612a74a624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mm_moutain01
+    second: {fileID: 2100000, guid: c17214e5d4c3e084183954885bd5bdaa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 51bbf4ae1c6e9264aad3d32ad4578355
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AllRoot
+    100002: body_center
+    100004: CapPos
+    100006: CapPosLotate
+    100008: //RootNode
+    100010: ChainPoint
+    100012: eye
+    100014: MarioMustache
+    100016: MarioMustache__HairMT
+    100018: MarioMustache__MustacheMT
+    100020: mouth_Downer_1
+    100022: mouth_Downer_2
+    100024: mouth_Downer_3
+    100026: mouth_Upper_1
+    100028: mouth_Upper_2
+    100030: mouth_Upper_3
+    100032: MustacheJoint
+    100034: MustachL
+    100036: MustachR
+    100038: nw4f_root
+    100040: skl_root
+    100042: Wanwan1
+    100044: wanwan_body_model__mat_wanwan_body
+    100046: wanwan_body_model__mat_wanwan_nonShadow
+    100048: wanwan_eyeL_model__mat_wanwan_eye
+    100050: wanwan_eyeL_model__mat_wanwan_eyeAO
+    400000: AllRoot
+    400002: body_center
+    400004: CapPos
+    400006: CapPosLotate
+    400008: //RootNode
+    400010: ChainPoint
+    400012: eye
+    400014: MarioMustache
+    400016: MarioMustache__HairMT
+    400018: MarioMustache__MustacheMT
+    400020: mouth_Downer_1
+    400022: mouth_Downer_2
+    400024: mouth_Downer_3
+    400026: mouth_Upper_1
+    400028: mouth_Upper_2
+    400030: mouth_Upper_3
+    400032: MustacheJoint
+    400034: MustachL
+    400036: MustachR
+    400038: nw4f_root
+    400040: skl_root
+    400042: Wanwan1
+    400044: wanwan_body_model__mat_wanwan_body
+    400046: wanwan_body_model__mat_wanwan_nonShadow
+    400048: wanwan_eyeL_model__mat_wanwan_eye
+    400050: wanwan_eyeL_model__mat_wanwan_eyeAO
+    2100000: mat_wanwan_body
+    2100002: mat_wanwan_nonShadow
+    2100004: mat_wanwan_eye
+    2100006: mat_wanwan_eyeAO
+    2100008: HairMT
+    2100010: MustacheMT
+    4300000: wanwan_body_model__mat_wanwan_body
+    4300002: wanwan_body_model__mat_wanwan_nonShadow
+    4300004: wanwan_eyeL_model__mat_wanwan_eye
+    4300006: wanwan_eyeL_model__mat_wanwan_eyeAO
+    4300008: MarioMustache__HairMT
+    4300010: MarioMustache__MustacheMT
+    9500000: //RootNode
+    13700000: MarioMustache__HairMT
+    13700002: MarioMustache__MustacheMT
+    13700004: wanwan_body_model__mat_wanwan_body
+    13700006: wanwan_body_model__mat_wanwan_nonShadow
+    13700008: wanwan_eyeL_model__mat_wanwan_eye
+    13700010: wanwan_eyeL_model__mat_wanwan_eyeAO
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
